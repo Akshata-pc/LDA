@@ -1,2 +1,2 @@
 # LDA
-LDA on iris dataset
+python code to perform LDA on iris dataset with detailed explaination
